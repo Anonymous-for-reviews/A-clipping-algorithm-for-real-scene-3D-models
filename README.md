@@ -21,5 +21,6 @@ View the clipping results:
 3. Run the program to see the clipping results.
 
 ########
+
 Data:
 Tile_37 is a real-scene 3D model in OSGB format, which is generated with oblique photogrammetric images. The model has 85 corresponding OSGB files. Lines11.osg is the boundary line in OSG format.
